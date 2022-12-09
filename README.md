@@ -24,7 +24,7 @@ I can handle any challenging issue at any time and complete any programming-rela
 <!--   <a href="mailto:https://github.com/Ahtesham-Ibne-Mostafa">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a> -->
-	<a href="[https://stackoverflow.com/users/18246106/naimur-rahman](https://stackoverflow.com/users/17229306/ahtesham-ibne-mostafa)" target="_blank">
+	<a href="https://stackoverflow.com/users/17229306/ahtesham-ibne-mostafa" target="_blank">
 		<img src="https://img.shields.io/badge/Stackoverflow-f48024?style=for-the-badge&logo=stackoverflow&logoColor=white" />
 	</a>
 </p>
