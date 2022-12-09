@@ -1,7 +1,7 @@
 
-# Hey, I'm Ahtesham, Welcome! 
+# Hey, I'm Ahtesham, Welcome! <img src="https://i.ibb.co/TqQSq2q/wave.gif" width="40px" height="40px">
 
-<img src="https://media-exp1.licdn.com/dms/image/C4E16AQEOkqIFhRkcPA/profile-displaybackgroundimage-shrink_350_1400/0/1648575476968?e=1671062400&v=beta&t=sWuRSmrxrwX396ecvhE-BgrTm5-LIOseOYdwYAQC7_o">
+
 
 
  
@@ -21,11 +21,10 @@ I can handle any challenging issue at any time and complete any programming-rela
 		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 	</a> -->
 	 
-
-<!--   <a href="mailto:https://github.com/naimur-29">
+<!--   <a href="mailto:https://github.com/Ahtesham-Ibne-Mostafa">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a> -->
-	<a href="https://stackoverflow.com/users/17229306/ahtesham-ibne-mostafa" target="_blank">
+	<a href="[https://stackoverflow.com/users/18246106/naimur-rahman](https://stackoverflow.com/users/17229306/ahtesham-ibne-mostafa)" target="_blank">
 		<img src="https://img.shields.io/badge/Stackoverflow-f48024?style=for-the-badge&logo=stackoverflow&logoColor=white" />
 	</a>
 </p>
@@ -48,9 +47,7 @@ I can handle any challenging issue at any time and complete any programming-rela
 <!-- ![Redux](https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=redux&logoColor=white) -->
 <!-- ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) -->
 
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![YARN](https://img.shields.io/badge/yarn-7743CE?style=for-the-badge&logo=yarn&logoColor=white)
-  
+
 ### 🧑🏻‍💻 Tools & Platform
 
 ![GitHub](https://img.shields.io/badge/GitHub-2088FF?style=for-the-badge&logo=github&logoColor=white)
