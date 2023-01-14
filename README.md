@@ -28,14 +28,6 @@ I can handle any challenging issue at any time and complete any programming-rela
 	</a>
 </p>
 
-## ⚡ Tech Stack
-
-### 🚀 Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/Python-fff?style=for-the-badge&logo=python&logoColor=306998)
-![C](https://img.shields.io/badge/Lang-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cpp&logoColor=white)
- 
 
 
 <!-- ![Next.js](https://img.shields.io/badge/Next%20js-4e5563?style=for-the-badge&logo=tailwindcss&logoColor=white) -->
