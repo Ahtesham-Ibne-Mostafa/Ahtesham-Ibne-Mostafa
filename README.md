@@ -62,7 +62,7 @@ I can handle any challenging issue at any time and complete any programming-rela
 ## 📈 Stats
 
 <p align="center">
-  <img width="48%" src="[https://github-readme-stats.vercel.app/api?username=Ahtesham-Ibne-Mostafa&show_icons=true&hide_border=true&theme=radical](https://github-readme-stats.vercel.app/api?username=Ahtesham-Ibne-Mostafa&show_icons=true&hide_border=true&theme=radical)" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ahtesham-Ibne-Mostafa&show_icons=true&hide_border=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahtesham-Ibne-Mostafa&hide_border=true&theme=radical" />
 </p>
   
