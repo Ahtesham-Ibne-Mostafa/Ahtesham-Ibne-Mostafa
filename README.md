@@ -37,13 +37,13 @@ I can handle any challenging issue at any time and complete any programming-rela
 <p align="center">
 	### 🧑🏻‍💻 Tools & Platform
 </p>	
-<p align="center">
-	![GitHub](https://img.shields.io/badge/GitHub-2088FF?style=for-the-badge&logo=github&logoColor=white)
-	![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-	![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-	![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
-	![Linux](https://img.shields.io/badge/Linux-fff?style=for-the-badge&logo=linux&color=434343)
-</p>
+
+![GitHub](https://img.shields.io/badge/GitHub-2088FF?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![Linux](https://img.shields.io/badge/Linux-fff?style=for-the-badge&logo=linux&color=434343)
+
 <!--
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
