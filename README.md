@@ -34,9 +34,8 @@ I can handle any challenging issue at any time and complete any programming-rela
 <!-- ![Redux](https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=redux&logoColor=white) -->
 <!-- ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) -->
 
-<p align="center">
-	### 🧑🏻‍💻 Tools & Platform
-</p>	
+
+### 🧑🏻‍💻 Tools & Platform
 
 ![GitHub](https://img.shields.io/badge/GitHub-2088FF?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
