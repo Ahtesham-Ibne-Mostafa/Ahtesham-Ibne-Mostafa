@@ -6,13 +6,21 @@
 
 ---
 
-## 🚀 About Me
+## 🌟 About Me
 
 I’m a passionate Computer Science undergraduate at Brac University, specializing in AI, Machine Learning, Deep Learning, and Natural Language Processing (NLP). My research focuses on biomedical signal analysis, multimodal healthcare applications, and neural network-driven automation. I thrive on solving challenging problems and building end-to-end software solutions across domains.
 
 - **⚡ Fast learner** & adaptable to any situation
 - **🔍 Researcher & innovator** at heart
 - **💻 Full-stack developer** by execution
+
+---
+
+## 🚀 Dynamic Content
+
+<!-- blog start -->
+<!-- Your latest blog posts or dynamic content will be inserted here automatically -->
+<!-- blog end -->
 
 ---
 
@@ -50,7 +58,7 @@ I’m a passionate Computer Science undergraduate at Brac University, specializi
 - **CARE4ALL MediCenter – Healthcare Management System**  
   *MERN Stack — Patient registration, appointment booking, role-based dashboards, JWT authentication*
 - **University Students’ Information & Communication System**  
-  *Real-time announcements, messaging, resource sharing, administrative control, responsive UI*
+  *Real-time announcements, messaging, resource sharing, administrative control panel*
 - **Blood Donation App (MERN Stack)**  
   *Donor registration, search, real-time updates, JWT-secured backend*
 - **University Management System**  
@@ -82,11 +90,16 @@ MERN Stack, PHP/MySQL, REST APIs, JWT Authentication
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Dynamic GitHub Stats
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ahtesham-Ibne-Mostafa&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahtesham-Ibne-Mostafa&theme=radical" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahtesham-Ibne-Mostafa&theme=nord_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahtesham-Ibne-Mostafa&theme=nord_dark" />
 </div>
 
 ---
@@ -130,9 +143,20 @@ MERN Stack, PHP/MySQL, REST APIs, JWT Authentication
 
 ---
 
-## 👨‍💻 Top Languages Used
+## 🎯 What's Next?
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahtesham-Ibne-Mostafa&theme=nord_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahtesham-Ibne-Mostafa&theme=nord_dark" />
-</div>
+Want to see your latest blog posts, StackOverflow activity, or even a random dev joke or quote?  
+Check out the resources below to make your profile even more dynamic and engaging!
+
+- **Dynamic Blog Posts:** Use GitHub Actions to pull your latest blog posts and display them automatically[2][10].
+- **StackOverflow Activity:** Show your latest StackOverflow answers or stats[10][3].
+- **Dev Jokes & Quotes:** Add a random dev joke or quote to your profile[3].
+- **Spotify Now Playing:** Display what you’re listening to on Spotify[10][3].
+- **GitHub Profile Trophy:** Showcase your GitHub achievements with dynamic trophies[3].
+
+---
+
+## 🔄 How to Add Dynamic Content
+
+You can automate your README by setting up GitHub Actions to update it with your latest content. Here’s a quick example for blog posts:
+
