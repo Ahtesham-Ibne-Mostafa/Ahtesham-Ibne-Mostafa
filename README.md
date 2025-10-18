@@ -38,7 +38,7 @@ Currently working on a **multimodal thesis** combining biomedical signals and NL
 ---
 
 ## 🧠 Research Experience
-
+- 🫀 **Deep Learning and LLM-Based 30-Day Postoperative MACE Risk** - Prediction Using ECG and EHR Data
 - 🫀 **ECG Abnormality Detection** – Deep learning on MIMIC-IV ECG data  
 - 🧠 **EEG Signal Analysis** – Preprocessing + ML for cognitive signal study  
 - 📝 **EHR Summarization** – SpaCy NLP pipeline for clinical notes  
